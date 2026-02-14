@@ -1,0 +1,430 @@
+[
+  {
+    "source": "OpenClaw",
+    "target": "OpenClaw"
+  },
+  {
+    "source": "Gateway",
+    "target": "Passerelle"
+  },
+  {
+    "source": "gateway",
+    "target": "passerelle"
+  },
+  {
+    "source": "Pi",
+    "target": "Pi"
+  },
+  {
+    "source": "Skills",
+    "target": "Compétences"
+  },
+  {
+    "source": "skills",
+    "target": "compétences"
+  },
+  {
+    "source": "Skills config",
+    "target": "Configuration des compétences"
+  },
+  {
+    "source": "Skills Config",
+    "target": "Configuration des Compétences"
+  },
+  {
+    "source": "local loopback",
+    "target": "boucle locale"
+  },
+  {
+    "source": "Tailscale",
+    "target": "Tailscale"
+  },
+  {
+    "source": "Getting Started",
+    "target": "Démarrage"
+  },
+  {
+    "source": "Getting started",
+    "target": "Démarrage"
+  },
+  {
+    "source": "Quick start",
+    "target": "Démarrage rapide"
+  },
+  {
+    "source": "Quick Start",
+    "target": "Démarrage Rapide"
+  },
+  {
+    "source": "Docs directory",
+    "target": "Répertoire de documentation"
+  },
+  {
+    "source": "Credits",
+    "target": "Crédits"
+  },
+  {
+    "source": "Features",
+    "target": "Fonctionnalités"
+  },
+  {
+    "source": "DMs",
+    "target": "Messages privés"
+  },
+  {
+    "source": "DM",
+    "target": "Message privé"
+  },
+  {
+    "source": "sandbox",
+    "target": "bac à sable"
+  },
+  {
+    "source": "Sandbox",
+    "target": "Bac à sable"
+  },
+  {
+    "source": "sandboxing",
+    "target": "isolation en bac à sable"
+  },
+  {
+    "source": "Sandboxing",
+    "target": "Isolation en bac à sable"
+  },
+  {
+    "source": "sandboxed",
+    "target": "isolé en bac à sable"
+  },
+  {
+    "source": "Sandboxed",
+    "target": "Isolé en bac à sable"
+  },
+  {
+    "source": "Sandboxing note",
+    "target": "Note sur le bac à sable"
+  },
+  {
+    "source": "Companion apps",
+    "target": "Applications compagnes"
+  },
+  {
+    "source": "expected keys",
+    "target": "clés attendues"
+  },
+  {
+    "source": "block streaming",
+    "target": "streaming par blocs"
+  },
+  {
+    "source": "Block streaming",
+    "target": "Streaming par blocs"
+  },
+  {
+    "source": "Discovery + transports",
+    "target": "Découverte + transports"
+  },
+  {
+    "source": "Discovery",
+    "target": "Découverte"
+  },
+  {
+    "source": "Network model",
+    "target": "Modèle réseau"
+  },
+  {
+    "source": "for full details",
+    "target": "pour plus de détails"
+  },
+  {
+    "source": "First 60 seconds",
+    "target": "Premières 60 secondes"
+  },
+  {
+    "source": "Auth: where it lives (important)",
+    "target": "Authentification : où elle se trouve (important)"
+  },
+  {
+    "source": "agent",
+    "target": "agent"
+  },
+  {
+    "source": "Agent",
+    "target": "Agent"
+  },
+  {
+    "source": "channel",
+    "target": "canal"
+  },
+  {
+    "source": "Channel",
+    "target": "Canal"
+  },
+  {
+    "source": "channels",
+    "target": "canaux"
+  },
+  {
+    "source": "Channels",
+    "target": "Canaux"
+  },
+  {
+    "source": "session",
+    "target": "session"
+  },
+  {
+    "source": "Session",
+    "target": "Session"
+  },
+  {
+    "source": "provider",
+    "target": "fournisseur"
+  },
+  {
+    "source": "Provider",
+    "target": "Fournisseur"
+  },
+  {
+    "source": "model",
+    "target": "modèle"
+  },
+  {
+    "source": "Model",
+    "target": "Modèle"
+  },
+  {
+    "source": "tool",
+    "target": "outil"
+  },
+  {
+    "source": "Tool",
+    "target": "Outil"
+  },
+  {
+    "source": "tools",
+    "target": "outils"
+  },
+  {
+    "source": "Tools",
+    "target": "Outils"
+  },
+  {
+    "source": "CLI",
+    "target": "CLI"
+  },
+  {
+    "source": "install sanity",
+    "target": "vérification de l'installation"
+  },
+  {
+    "source": "get unstuck",
+    "target": "débloquer"
+  },
+  {
+    "source": "troubleshooting",
+    "target": "dépannage"
+  },
+  {
+    "source": "Troubleshooting",
+    "target": "Dépannage"
+  },
+  {
+    "source": "FAQ",
+    "target": "FAQ"
+  },
+  {
+    "source": "onboarding",
+    "target": "intégration"
+  },
+  {
+    "source": "Onboarding",
+    "target": "Intégration"
+  },
+  {
+    "source": "wizard",
+    "target": "assistant"
+  },
+  {
+    "source": "Wizard",
+    "target": "Assistant"
+  },
+  {
+    "source": "environment variables",
+    "target": "variables d'environnement"
+  },
+  {
+    "source": "environment variable",
+    "target": "variable d'environnement"
+  },
+  {
+    "source": "env vars",
+    "target": "variables d'env"
+  },
+  {
+    "source": "env var",
+    "target": "variable d'env"
+  },
+  {
+    "source": "Installation",
+    "target": "Installation"
+  },
+  {
+    "source": "install",
+    "target": "installer"
+  },
+  {
+    "source": "Install",
+    "target": "Installer"
+  },
+  {
+    "source": "Configuration",
+    "target": "Configuration"
+  },
+  {
+    "source": "config",
+    "target": "config"
+  },
+  {
+    "source": "Configure",
+    "target": "Configurer"
+  },
+  {
+    "source": "Setup",
+    "target": "Configuration"
+  },
+  {
+    "source": "setup",
+    "target": "configuration"
+  },
+  {
+    "source": "Deployment",
+    "target": "Déploiement"
+  },
+  {
+    "source": "deployment",
+    "target": "déploiement"
+  },
+  {
+    "source": "Docker",
+    "target": "Docker"
+  },
+  {
+    "source": "Node.js",
+    "target": "Node.js"
+  },
+  {
+    "source": "npm",
+    "target": "npm"
+  },
+  {
+    "source": "pnpm",
+    "target": "pnpm"
+  },
+  {
+    "source": "bun",
+    "target": "bun"
+  },
+  {
+    "source": "Updating",
+    "target": "Mise à jour"
+  },
+  {
+    "source": "updating",
+    "target": "mise à jour"
+  },
+  {
+    "source": "Update",
+    "target": "Mettre à jour"
+  },
+  {
+    "source": "update",
+    "target": "mettre à jour"
+  },
+  {
+    "source": "Upgrade",
+    "target": "Mise à niveau"
+  },
+  {
+    "source": "upgrade",
+    "target": "mise à niveau"
+  },
+  {
+    "source": "Requirements",
+    "target": "Prérequis"
+  },
+  {
+    "source": "requirements",
+    "target": "prérequis"
+  },
+  {
+    "source": "Prerequisites",
+    "target": "Prérequis"
+  },
+  {
+    "source": "prerequisites",
+    "target": "prérequis"
+  },
+  {
+    "source": "Usage",
+    "target": "Utilisation"
+  },
+  {
+    "source": "usage",
+    "target": "utilisation"
+  },
+  {
+    "source": "Examples",
+    "target": "Exemples"
+  },
+  {
+    "source": "examples",
+    "target": "exemples"
+  },
+  {
+    "source": "Tutorial",
+    "target": "Tutoriel"
+  },
+  {
+    "source": "tutorial",
+    "target": "tutoriel"
+  },
+  {
+    "source": "Guide",
+    "target": "Guide"
+  },
+  {
+    "source": "guide",
+    "target": "guide"
+  },
+  {
+    "source": "Reference",
+    "target": "Référence"
+  },
+  {
+    "source": "reference",
+    "target": "référence"
+  },
+  {
+    "source": "Documentation",
+    "target": "Documentation"
+  },
+  {
+    "source": "documentation",
+    "target": "documentation"
+  },
+  {
+    "source": "Overview",
+    "target": "Vue d'ensemble"
+  },
+  {
+    "source": "overview",
+    "target": "vue d'ensemble"
+  },
+  {
+    "source": "Introduction",
+    "target": "Introduction"
+  },
+  {
+    "source": "introduction",
+    "target": "introduction"
+  }
+]
